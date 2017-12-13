@@ -1,30 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: December 12, Thursday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: I've been working on the Roller Blinds Wifi project, investigating why does my stepper motor (BYJ48) always spin in the same direction using J5. I found that the problem is related to the sequence of the motors, J5 is using a different from the one that specify the builder, [here](http://eeshop.unl.edu/pdf/Stepper+Driver.pdf) is the documentation about it. What I tried:
+- Rebuild from scrath the Stepper library using J5.Pin, but for a strange reason that I didn't have much time to see it doesn't like moving the stepper with Arduino's code.
+- Create a new issue in J5's repository to see if anyone had this trouble and how I can manage to solve this problem. I looked up in the codebase of the framework but I didn't find anything related to the sequence.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Roller Blinds Wifi](https://github.com/EmaSuriano/roller-blinds-wifi)
+2. [Issue in J5](https://github.com/rwaldron/johnny-five/issues/1424)
