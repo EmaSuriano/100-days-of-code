@@ -9,3 +9,12 @@
 **Link(s) to work**
 1. [Roller Blinds Wifi](https://github.com/EmaSuriano/roller-blinds-wifi)
 2. [Issue in J5](https://github.com/rwaldron/johnny-five/issues/1424)
+
+### Day 2: December 13, Wednesday
+
+**Today's Progress**: I've been working with Cato trying to understand J5's code of Stepper class and see how we can change the sequence of the stepper. To do this we clone J5 repo and add a simple test connection file in order to be able to debug it. Sadly, we didn't find anything ... Right now there are 2 reasonable possibilities:
+1. Keep looking in the Stepper class code, there are strange variables like `this.io` that I think that has the magic inside.
+2. Implement another driver (fisically) that works with 2 pin so we don't have this Direction problem anymore, to do that I have a Pololu driver but it works with 9V so we need a power supply to make it work.
+
+**Link(s) to work**
+1. [Fork J5 repo](https://github.com/EmaSuriano/johnny-five)
