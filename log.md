@@ -6,6 +6,8 @@
 - Rebuild from scrath the Stepper library using J5.Pin, but for a strange reason that I didn't have much time to see it doesn't like moving the stepper with Arduino's code.
 - Create a new issue in J5's repository to see if anyone had this trouble and how I can manage to solve this problem. I looked up in the codebase of the framework but I didn't find anything related to the sequence.
 
+#### Overall status: Good
+
 **Link(s) to work**
 1. [Roller Blinds Wifi](https://github.com/EmaSuriano/roller-blinds-wifi)
 2. [Issue in J5](https://github.com/rwaldron/johnny-five/issues/1424)
@@ -16,5 +18,16 @@
 1. Keep looking in the Stepper class code, there are strange variables like `this.io` that I think that has the magic inside.
 2. Implement another driver (fisically) that works with 2 pin so we don't have this Direction problem anymore, to do that I have a Pololu driver but it works with 9V so we need a power supply to make it work.
 
+#### Overall status: Bad
+
 **Link(s) to work**
 1. [Fork J5 repo](https://github.com/EmaSuriano/johnny-five)
+
+### Day 3: December 14, Thursday
+
+**Today's Progress**: Tired of working with the blinds project I decided to create a new repo in order to test how integration tests could be done. I'm following [this article](https://medium.com/@skidding/testing-react-components-30516bc6a1b3) which at first sight seems really cool. So, I started working on a Weather Application that make a fetch when the component mount on the DOM, dispatch some actions, reducers take that aciton's types and then with some selectors I get the values that will be using my component. The idea is to see how far I can get to test this small application and also, see if give value for the application.
+
+#### Overall status: Good
+
+**Link(s) to work**
+1. [Weather app - Integration Cosmos](https://github.com/EmaSuriano/weather-app-integration-test-cosmos)
