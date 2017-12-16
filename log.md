@@ -31,3 +31,17 @@
 
 **Link(s) to work**
 1. [Weather app - Integration Cosmos](https://github.com/EmaSuriano/weather-app-integration-test-cosmos)
+
+### Day 4: December 15, Friday
+
+**Today's Progress**: So after having a lot of troubles with CORS calling the weather API of [Open Weather](https://openweathermap.org/ap), I decided to move foward to another onen and it was the best decition I took today. It has the ability to get the forecast with latitude and longitude, which is great because I star the project with that idea. Also I can get many forecast that I want, but I think I'll keep with 6. Next steps are:
+* Adding Weather Cards with CSS Grid
+* Adding Location Bar
+* Add the posibility to refresh the weather
+* Finally and the more important is to start making integration testing with cosmos!
+
+#### Overall status: Good
+
+**Link(s) to work**
+1. [Weather app - Integration Cosmos](https://github.com/EmaSuriano/weather-app-integration-test-cosmos)
+2. [Weather API](https://www.apixu.com/)
