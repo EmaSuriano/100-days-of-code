@@ -45,3 +45,15 @@
 **Link(s) to work**
 1. [Weather app - Integration Cosmos](https://github.com/EmaSuriano/weather-app-integration-test-cosmos)
 2. [Weather API](https://www.apixu.com/)
+
+### Day 5: December 16, Saturday
+
+**Today's Progress**: I started coding at 3 pm  and finished at 3 am of Sunday, so today was really heavy! The most important thing that I've done was be able to change the sequence when moving steps with the Stepper library of J5, that took almost the whole day ( I had ot fork ConfigurableFirmata repository in order to be able to debug it) but it's working excellent :) Another thing was to advance with the server: 
+* It has the possibilty to communicate with socket (using [Socket.IO](https://socket.io))
+* It is saving the position on a Local Database (using [NeBD](https://github.com/louischatriot/nedb))
+
+#### Overall status: Good
+
+**Link(s) to work**
+1. [Roller Blinds Wifi](https://github.com/EmaSuriano/roller-blinds-wifi)
+2. [ConfigurableFirmata](https://github.com/EmaSuriano/ConfigurableFirmata)
