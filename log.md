@@ -57,3 +57,15 @@
 **Link(s) to work**
 1. [Roller Blinds Wifi](https://github.com/EmaSuriano/roller-blinds-wifi)
 2. [ConfigurableFirmata](https://github.com/EmaSuriano/ConfigurableFirmata)
+
+### Day 6: December 17, Sunday
+
+**Today's Progress**: I started learning CSS grid to implement it on the weather-react-cosmos app just to give it responsive design. Also made some change sin order to have icons representing the waether, my idea is using icons that have a bit of movement just to make it nicer :) 
+
+#### Overall status: Regular
+
+**Link(s) to work**
+1. [Weather app - Integration Cosmos](https://github.com/EmaSuriano/weather-app-integration-test-cosmos)
+2. [CSS Grid Garden](http://cssgridgarden.com/)
+3. [CSS Grid Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
