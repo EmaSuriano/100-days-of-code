@@ -69,3 +69,12 @@
 2. [CSS Grid Garden](http://cssgridgarden.com/)
 3. [CSS Grid Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
+### Day 7: December 18, Monday
+
+**Today's Progress**: I worked on impementing enviroment variables on roller-blinds-server and also adding async/await in order to avoid using promises. Also, I made the first iteration to integrate Redux with Socket.IO and work very well there are some issues and error handling that I have to take care of but fortunatetly the socket itself is working for more than one client.
+
+#### Overall status: Good
+
+**Link(s) to work**
+1. [Weather app - Integration Cosmos](https://github.com/EmaSuriano/weather-app-integration-test-cosmos)
+
