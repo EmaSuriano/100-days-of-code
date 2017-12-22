@@ -76,5 +76,34 @@
 #### Overall status: Good
 
 **Link(s) to work**
-1. [Weather app - Integration Cosmos](https://github.com/EmaSuriano/weather-app-integration-test-cosmos)
+1. [Roller Blinds Wifi](https://github.com/EmaSuriano/roller-blinds-wifi)
+2. [Redux Socket IO](https://github.com/itaylor/redux-socket.io)
 
+### Day 8: December 19, Tuesday
+
+**Today's Progress**: I added error handling on the server side (it will return an action with the type 'SERVER_ERROR' with the message), then on the client I added a notification system so when it received an errror it will show a notification on the left bottom corner.
+
+#### Overall status: Good
+
+**Link(s) to work**
+1. [Roller Blinds Wifi](https://github.com/EmaSuriano/roller-blinds-wifi)
+2. [React notification](https://github.com/pburtchaell/react-notification)
+
+### Day 9: December 20, Wednesday
+
+**Today's Progress**: With the team we did the integration of the apps with the roller blinds server. It's working pretty well but we're having some troubles connecting to the server from our client (Marcos computer).
+
+#### Overall status: Good
+
+**Link(s) to work**
+1. [Roller Blinds Wifi](https://github.com/EmaSuriano/roller-blinds-wifi)
+
+
+### Day 10: December 21, Thursday
+
+**Today's Progress**: We add validation to the roller blinds in order to prevent from moving if the server doesn't respond with a succesfull response. After doing this, we kind of broke the whole server/application and also there are some strang behaviour inside the server. Besides that, we did the presentation talking about the scope of the project, architechture and communication between all the parts of it. 
+
+#### Overall status: Regular
+
+**Link(s) to work**
+1. [Roller Blinds Wifi](https://github.com/EmaSuriano/roller-blinds-wifi)
