@@ -107,3 +107,21 @@
 
 **Link(s) to work**
 1. [Roller Blinds Wifi](https://github.com/EmaSuriano/roller-blinds-wifi)
+
+### Day 11: December 22, Friday
+
+**Today's Progress**: I add HMR to the roller-blinds project on the server side, but I have a lot of questions how it works due to I just copy and paste the webpack.config from a post that I saw on stack overflow. Besides that I have an express server rocking! 
+
+#### Overall status: Good
+
+**Link(s) to work**
+1. [Roller Blinds Wifi](https://github.com/EmaSuriano/roller-blinds-wifi)
+
+### Day 12: December 22, Friday
+
+**Today's Progress**: I continue investigating the magic of webpack and endup checking the difference between webpack-dev-server, webpack-hot-reload, webpack-zarlanga, etc. There a lot of those, I'll keep with my webpack config on the project I think is running great, but there a few problems with variables that in node works but here it doesnt like  `_dirname`. 
+
+#### Overall status: Regular
+
+**Link(s) to work**
+1. [Roller Blinds Wifi](https://github.com/EmaSuriano/roller-blinds-wifi)
