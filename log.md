@@ -117,7 +117,7 @@
 **Link(s) to work**
 1. [Roller Blinds Wifi](https://github.com/EmaSuriano/roller-blinds-wifi)
 
-### Day 12: December 22, Friday
+### Day 12: December 23, Saturday
 
 **Today's Progress**: I continue investigating the magic of webpack and endup checking the difference between webpack-dev-server, webpack-hot-reload, webpack-zarlanga, etc. There a lot of those, I'll keep with my webpack config on the project I think is running great, but there a few problems with variables that in node works but here it doesnt like  `_dirname`. 
 
@@ -125,3 +125,32 @@
 
 **Link(s) to work**
 1. [Roller Blinds Wifi](https://github.com/EmaSuriano/roller-blinds-wifi)
+
+### Day 13: December 25, Monday
+
+**Today's Progress**: I finally made socket IO with express to work with the HMR of webpack in same server. The problem was that if both frameworks shared port for a strange reason when one of those reload because of a change in the code (in this case was express), an error message appear on the console saying that the headers can't be replace for a strange error code that I obviously why was happenning. So after lookin for 2 hours on Google, downloading a bunch of repository that people said that they have a server with HMR on it (obviously any of those have a working HMR), I encounter the page that a guy said "That kind of problem is always because they shared port, so change it and it will work". So I did, and instantly HMR reload was working like a charm! :love: 
+
+#### Overall status: Good
+
+**Link(s) to work**
+1. [Roller Blinds Wifi](https://github.com/EmaSuriano/roller-blinds-wifi)
+
+### Day 14: December 26, Thursday
+
+**Today's Progress**: I start doing programming exercise in a platform called [Codility](https://app.codility.com/programmers/) due to I have a job interview and the guys from that company will send a few exercise to see if I can do them. I was really rusty on those subject, for example: data structure and complex algorith in which ones you have to take in consideration the space complexity and time complexity. So I create a repository to keep a track of them and did a pair of it. My idea is to keep practicing in order to get to the test in the best shape that I can.
+
+#### Overall status: Regular
+
+**Link(s) to work**
+1. [Codility Test](https://github.com/EmaSuriano/codility-test)
+
+### Day 15: December 27, Wednesday
+
+**Today's Progress**: In my job I had a task to add integration to our project and also write documentation about it on a README.md, which kept for a lot of hour making that, and endup creating a repository when I can do a simple integration test with a Counter component which basically when the user click on it, it will increase by one a counter, that's it. I did it with redux otherwise the integration test won't be suitable (in that case I would go with Unit test). I like starting a new demo project and finishing in 2 hours, it feels really great! :D 
+
+#### Overall status: Good
+
+**Link(s) to work**
+1. [React Integration Testing](https://github.com/EmaSuriano/react-integration-testing)
+
+
