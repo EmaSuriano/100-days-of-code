@@ -153,4 +153,13 @@
 **Link(s) to work**
 1. [React Integration Testing](https://github.com/EmaSuriano/react-integration-testing)
 
+### Day 16: December 28, Thursday
+
+**Today's Progress**: In my job, I had a task to improve the performance of specifics popups that we have on the application. So I start by looking at the container and check why they are rendering. I had to go deepper and check the function that do the shallow comparison between mapStateToProsp and previous stateToProps, and I learned that if you create an object/array inside the mapStateToProps then your component will always refresh.
+
+#### Overall status: Regular
+
+**Link(s) to work**
+1. [React Render Comparison](https://github.com/EmaSuriano/react-render-comparison)
+
 
