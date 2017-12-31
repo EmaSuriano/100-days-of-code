@@ -153,7 +153,7 @@
 **Link(s) to work**
 1. [React Integration Testing](https://github.com/EmaSuriano/react-integration-testing)
 
-### Day 16: December 28, Thursday
+### Day 16: December 29, Friday
 
 **Today's Progress**: In my job, I had a task to improve the performance of specifics popups that we have on the application. So I start by looking at the container and check why they are rendering. I had to go deepper and check the function that do the shallow comparison between mapStateToProsp and previous stateToProps, and I learned that if you create an object/array inside the mapStateToProps then your component will always refresh.
 
@@ -161,5 +161,14 @@
 
 **Link(s) to work**
 1. [React Render Comparison](https://github.com/EmaSuriano/react-render-comparison)
+
+### Day 17: December 31, Sunday
+
+**Today's Progress**: I read a post on medimum saying the advantages of parcel, which I already knew but never tried. Well it works pretty well and also the good part is really lightweight :D So I think that I will create a boilerplate for every app that I will create for this challenge :D
+
+#### Overall status: Good
+
+**Link(s) to work**
+1. [Parcel React](https://github.com/EmaSuriano/parcel-react)
 
 
