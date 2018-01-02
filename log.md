@@ -171,4 +171,14 @@
 **Link(s) to work**
 1. [Parcel React](https://github.com/EmaSuriano/parcel-react)
 
+### Day 18: January 1, Monday
 
+**Today's Progress**: Today I implemented animated weather icons with styled-components, fortunately the person who did the icons on codepen did a great job separating each css class so the task of creating each component was really easy. I did in total 3 weather which can be changed by props and then each prop is passed to the styled components, which finally change its css. Also, I added responsiveness to the application with CSS-grid and its awesome, totally love it!
+
+#### Overall status: Good
+
+**Link(s) to work**
+1. [Weather App](https://github.com/EmaSuriano/weather-app-integration-test-cosmos)
+2. [Weather Icons](https://codepen.io/joshbader/pen/EjXgqr?editors=1100)
+3. [CSS grid Documentation](https://css-tricks.com/snippets/css/complete-guide-grid/)
+4. [Styled components](https://www.styled-components.com/)
