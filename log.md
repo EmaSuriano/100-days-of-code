@@ -10,3 +10,13 @@ Another very important point is, this library was originated by the css grid cou
 **Link(s) to work**
 1. [React Responsive Gallery](https://github.com/EmaSuriano/responsive-react-gallery)
 2. [Css-grid course](https://cssgrid.io/)
+
+
+### Day 2: January 25, Thursday
+
+**Today's Progress**: I continue working on the react gallery library, this time refactoring almost all the library to decouple the images from the modal. Now this one is being controlled by the gallery itself. Also add the posibility to pass an onClick prop to the gallery, so if anyone want to do something different from displaying the modal they can!
+
+#### Overall status: Regular
+
+**Link(s) to work**
+1. [React Responsive Gallery](https://github.com/EmaSuriano/responsive-react-gallery)
