@@ -20,3 +20,19 @@ Another very important point is, this library was originated by the css grid cou
 
 **Link(s) to work**
 1. [React Responsive Gallery](https://github.com/EmaSuriano/responsive-react-gallery)
+
+
+### Day 3: January 26, Friday
+
+**Today's Progress**: I started working on my portofolio (which has been abandoned for a while with a WIP message 😅). This time I decided to use Gatsby because I want to create a blog inside my portfolio, so I can start writting blogs there and in the future move them to medium. Also, if I made this log a bit more richer in information I can create one entry every day for the blog. So I use template for gatsby which has a beatiful UI and also the amount of pages that I want. So what do I add to the portofolio?
+- Add at least one entry to the blog
+- Change About page
+- Change Contact page
+- Use my free url and see how it goes.
+
+#### Overall status: Good
+
+**Link(s) to work**
+1. [My Portfolio](https://github.com/EmaSuriano/emasuriano.github.io)
+2. [Gatsby Starters](https://www.gatsbyjs.org/docs/gatsby-starters/)
+3. [Lumen starter](https://github.com/alxshelepenok/gatsby-starter-lumen)
