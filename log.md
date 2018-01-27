@@ -36,3 +36,17 @@ Another very important point is, this library was originated by the css grid cou
 1. [My Portfolio](https://github.com/EmaSuriano/emasuriano.github.io)
 2. [Gatsby Starters](https://www.gatsbyjs.org/docs/gatsby-starters/)
 3. [Lumen starter](https://github.com/alxshelepenok/gatsby-starter-lumen)
+
+
+
+### Day 4: January 27, Saturday
+
+**Today's Progress**: Today I've looking in more detail the gatsby starter and I finally understand how to enable comments inside the posts. It's using Disqus which is really great but for now I will disable it. My focus right now is to have a portfolio that can be send to another person, at least with my photo 😂 Also I tried to upload the portfolio to my DNS (emanuelsuriano.design) but I can't. In both platforms, there was a message saying that the changes may take up to 24 hours son lets hope that by tomorrow everything is gonna be fixed. I still need to continue working on the portfolio but it's looking good!
+
+#### Overall status: Medium
+
+**Link(s) to work**
+1. [My Portfolio](https://github.com/EmaSuriano/emasuriano.github.io)
+2. [My DNS](http://emanuelsuriano.design/)
+
+
