@@ -2,8 +2,8 @@
 
 ### Day 1: January 24, Thursday
 
-**Today's Progress**: First day of the challenge! Feeling really good :D Today I've working on the react-responsive-gallery adding new examples to the demo page and also see some improvements that I can do to get a better component. It looks pretty neat at this point, but my fear is that as css grid do not improve the compatibiltity with other browser the gallery wont have any success, but it's really fun to write libraries :D
-Another very important point is, this library was originated by the css grid course by Wes Bos which is excellent! So kudos for him!
+**Today's Progress**: First day of the challenge! Feeling really good :D Today I've working on the react-responsive-gallery adding new examples to the demo page and also see some improvements that I can do to get a better component. It looks pretty neat at this point, but my fear is that as CSS grid do not improve the compatibility with another browser the gallery won't have any success, but it's really fun to write libraries :D
+Another very important point is, this library was originated by the CSS grid course by Wes Bos which is excellent! So kudos to him!
 
 #### Overall status: Good
 
@@ -14,7 +14,7 @@ Another very important point is, this library was originated by the css grid cou
 
 ### Day 2: January 25, Thursday
 
-**Today's Progress**: I continue working on the react gallery library, this time refactoring almost all the library to decouple the images from the modal. Now this one is being controlled by the gallery itself. Also add the posibility to pass an onClick prop to the gallery, so if anyone want to do something different from displaying the modal they can!
+**Today's Progress**: I continue working on the react gallery library, this time refactoring almost all the library to decouple the images from the modal. Now this one is being controlled by the gallery itself. Also, add the possibility to pass an onClick prop to the gallery, so if anyone wants to do something different from displaying the modal they can!
 
 #### Overall status: Regular
 
@@ -24,7 +24,7 @@ Another very important point is, this library was originated by the css grid cou
 
 ### Day 3: January 26, Friday
 
-**Today's Progress**: I started working on my portofolio (which has been abandoned for a while with a WIP message 😅). This time I decided to use Gatsby because I want to create a blog inside my portfolio, so I can start writting blogs there and in the future move them to medium. Also, if I made this log a bit more richer in information I can create one entry every day for the blog. So I use template for gatsby which has a beatiful UI and also the amount of pages that I want. So what do I add to the portofolio?
+**Today's Progress**: I started working on my portfolio (which has been abandoned for a while with a WIP message 😅). This time I decided to use Gatsby because I want to create a blog inside my portfolio, so I can start writing blogs there and in the future move them to medium. Also, if I made this log a bit richer in the information I can create one entry every day for the blog. So I use template for gatsby which has a beatiful UI and also the amount of pages that I want. So what do I add to the portofolio?
 - Add at least one entry to the blog
 - Change About page
 - Change Contact page
@@ -63,7 +63,7 @@ Another very important point is, this library was originated by the css grid cou
 
 ## Day 6: January 29, Monday
 
-**Today's Progress**: I wrote my first serious article inside my page, telling how I get my portfolio in one night. It took me a lot of work and time but I am really happy with the final product. I have a lot of grammatical mistakes but fortunately my girdfriend helped me to solved them 😘 
+**Today's Progress**: I wrote my first serious article on my page, telling how I get my portfolio in one night. It took me a lot of work and time but I am really happy with the final product. I have a lot of grammatical mistakes but fortunately, my girlfriend helped me to solve them 😘 
 
 ### Overall status: Good
 
