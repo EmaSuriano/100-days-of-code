@@ -46,7 +46,39 @@ Another very important point is, this library was originated by the css grid cou
 #### Overall status: Medium
 
 **Link(s) to work**
-1. [My Portfolio](https://github.com/EmaSuriano/emasuriano.github.io)
+1. [My Portfolio](https://github.com/EmaSuriano/portfolio-gatsby)
 2. [My DNS](http://emanuelsuriano.design/)
 
+## Day 5: January 28, Sunday
 
+**Today's Progress**: I learned how to implement plugins inside gatsby, this time I wanted to use this one gatsby-remark-images. This plugin transform the img in mardown to beatiful lazy load images that have a blur effect while they are loading, so it's really cool because the content wont be start to gittering while are loading. 
+
+### Overall status: Medium
+
+**Link(s) to work**
+1. [My Portfolio](https://github.com/EmaSuriano/portfolio-gatsby)
+2. [My DNS](http://emanuelsuriano.design/)
+3. [Netlify link](http://emasuriano.netlify.com/)
+4. [gatsby-remark-images](https://www.npmjs.com/package/gatsby-remark-images)
+
+## Day 6: January 29, Monday
+
+**Today's Progress**: I wrote my first serious article inside my page, telling how I get my portfolio in one night. It took me a lot of work and time but I am really happy with the final product. I have a lot of grammatical mistakes but fortunately my girdfriend helped me to solved them 😘 
+
+### Overall status: Good
+
+**Link(s) to work**
+1. [My Portfolio](https://github.com/EmaSuriano/portfolio-gatsby)
+2. [Link to the Post](http://emasuriano.netlify.com/posts/how-i-made-my-page-in-1-night/)
+
+
+## Day 7: January 29, Monday
+
+**Today's Progress**: I learned how to implement twitter cards in order to preview a beatiful card after pasting the link inside a tweets, so this is very important because the tweets seems more relevant with that card. Also get some fixes inside the previous article and upload my image inside the page.
+
+### Overall status: Medium
+
+**Link(s) to work**
+1. [My Portfolio](https://github.com/EmaSuriano/portfolio-gatsby)
+2. [Link to the Post](http://emasuriano.netlify.com/posts/how-i-made-my-page-in-1-night/)
+3. [Twitter docs](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary-card-with-large-image)
