@@ -82,3 +82,15 @@ Another very important point is, this library was originated by the CSS grid cou
 1. [My Portfolio](https://github.com/EmaSuriano/portfolio-gatsby)
 2. [Link to the Post](http://emasuriano.netlify.com/posts/how-i-made-my-page-in-1-night/)
 3. [Twitter docs](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary-card-with-large-image)
+
+
+## Day 8: January 30, Tuesday
+
+**Today's Progress**: Today I've working with hotkeys in react, trying a few libraries like react-keydown, react-hotkeys, mousetrap and much more. I end up using any of them, because of the problem that if i want to use the shortcut I need to first focus the parent element. So tomorrow I will continue looking for the one that helps me solve this fucking task.
+
+### Overall status: Bad
+
+**Link(s) to work**
+1. [react-hotkeys-example](https://github.com/EmaSuriano/react-hotkeys-example)
+2. [react-hotkeys](https://github.com/greena13/react-hotkeys)
+3. [react-keydown](https://www.npmjs.com/package/react-keydown)
