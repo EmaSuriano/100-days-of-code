@@ -94,3 +94,14 @@ Another very important point is, this library was originated by the CSS grid cou
 1. [react-hotkeys-example](https://github.com/EmaSuriano/react-hotkeys-example)
 2. [react-hotkeys](https://github.com/greena13/react-hotkeys)
 3. [react-keydown](https://www.npmjs.com/package/react-keydown)
+
+## Day 9: Febreaury 1, Wednesday
+
+**Today's Progress**: I continue working on the hotkeys system for a react application. We were using react-hotkeys to catch the keys and call function after pressing the combination that we want. THe problem was that if we defined a hotkeuys componentn that wraps a small componennt in our app the shortcuts will only work if we are focusing that component (wont be globally usable). So we end up with a solution of wrapping the whole application with ONE HotKeys componentn so wherever we are focusing the shortcuts will work and then if a small component want to add a new shortcut to the application, it will get the context and call a functions subscribeHandler. Also when it will unmount, it has to call the unsubscribeHandler too.
+We kind of create a hotkeys system where any component can add or remove shortcuts via context, and in my opinion it's really slick! 
+
+### Overall status: Good
+
+**Link(s) to work**
+1. [react-hotkeys-example](https://github.com/EmaSuriano/react-hotkeys-example)
+2. [react-hotkeys](https://github.com/greena13/react-hotkeys)
