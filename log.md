@@ -95,7 +95,7 @@ Another very important point is, this library was originated by the CSS grid cou
 2. [react-hotkeys](https://github.com/greena13/react-hotkeys)
 3. [react-keydown](https://www.npmjs.com/package/react-keydown)
 
-## Day 9: Febreaury 1, Wednesday
+## Day 9: February 1, Wednesday
 
 **Today's Progress**: I continue working on the hotkeys system for a react application. We were using react-hotkeys to catch the keys and call function after pressing the combination that we want. THe problem was that if we defined a hotkeuys componentn that wraps a small componennt in our app the shortcuts will only work if we are focusing that component (wont be globally usable). So we end up with a solution of wrapping the whole application with ONE HotKeys componentn so wherever we are focusing the shortcuts will work and then if a small component want to add a new shortcut to the application, it will get the context and call a functions subscribeHandler. Also when it will unmount, it has to call the unsubscribeHandler too.
 We kind of create a hotkeys system where any component can add or remove shortcuts via context, and in my opinion it's really slick! 
@@ -105,3 +105,25 @@ We kind of create a hotkeys system where any component can add or remove shortcu
 **Link(s) to work**
 1. [react-hotkeys-example](https://github.com/EmaSuriano/react-hotkeys-example)
 2. [react-hotkeys](https://github.com/greena13/react-hotkeys)
+
+
+## Day 10: February 2, Thursday
+
+**Today's Progress**: After getting a functional hotkey system with react-hotkeys I was wondering how react-hotkets work and why I only can call hotkeys while focusing the component that has the hotkeys binded. So I check out Mousetrap and for my surprise the library binds shorcuts globally so the whole context fix is not required anymore. Therefore I rewrite the hotkeys system and it endup giving a better solution with less code (less code === easy and simple to read).
+
+### Overall status: Good
+
+**Link(s) to work**
+1. [react-hotkeys-example](https://github.com/EmaSuriano/react-hotkeys-example)
+2. [react-mousetrap](https://www.npmjs.com/package/react-mousetrap)
+
+## Day 11: February 3, Friday 
+
+**Today's Progress**: Another requirement was giving to us, we have to display a tooltip so the user will know which hotkey he has to press in order to call/focus/click any component of the application. Talking about the tooltip we didn't want to re invent the wheel so we use react-tippy which is a very simple and looking-good toltip! So we re-write the implementation and create a ShortcutWrapper which has very clean code and we think that it would be an excellent case for a new library! And that was what we did, we called it react-hotkey-tooltip. We've setup the repository, coverrals and travis CI using nwb create-library!
+
+### Overall status: Good
+
+**Link(s) to work**
+1. [react-hotkey-tooltip](https://github.com/EmaSuriano/react-hotkey-tooltip)
+2. [mousetrap](https://craig.is/killing/mice)
+3. [react-tippy](https://github.com/tvkhoa/react-tippy)
