@@ -214,3 +214,13 @@ BTW: the library is on npm if anyone want to try it!
 
 1. [Porfolio](emasuriano.github.io)
 2. [Disqus](https://disqus.com/)
+
+## Day 19: February 11, Thursday
+
+**Today's Progress**: returning to an old project (weather-styled-icon) that I had left it 2 months ago. After so much time, you don't know what's working or not 😕 Time to refactor the whole repo! 😱
+
+### Overall status: Good
+
+**Link(s) to work**
+
+1. [weather-styled-icon](https://github.com/EmaSuriano/weather-styled-icon)
