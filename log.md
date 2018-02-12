@@ -224,3 +224,14 @@ BTW: the library is on npm if anyone want to try it!
 **Link(s) to work**
 
 1. [weather-styled-icon](https://github.com/EmaSuriano/weather-styled-icon)
+
+## Day 20: February 12, Thursday
+
+**Today's Progress**: I started to code the home/demo page of weather-styled-icon and I realized that the icons that I made weren’t as extensible as I expected (trying to style them was a nightmare) 😣
+
+### Overall status: Regular
+
+**Link(s) to work**
+
+1. [weather-styled-icon](https://github.com/EmaSuriano/weather-styled-icon)
+2. [Demo](https://emasuriano.github.io/weather-styled-icon/)
