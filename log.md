@@ -157,7 +157,7 @@ We kind of create a hotkeys system where any component can add or remove shortcu
 2. [travis link](https://travis-ci.org/EmaSuriano/react-hotkey-tooltip)
 3. [semantic-release](https://github.com/semantic-release/semantic-release)
 
-## Day 14: February 6, Thursday
+## Day 14: February 6, Tuesday
 
 **Today's Progress**: Installing jest in react-hotkey-tooltip and starting to improve code coverage 💪 Let’s get 💯% coverage!
 BTW: the library is on npm if anyone want to try it!
@@ -170,7 +170,7 @@ BTW: the library is on npm if anyone want to try it!
 2. [travis link](https://travis-ci.org/EmaSuriano/react-hotkey-tooltip)
 3. [npm package](https://www.npmjs.com/package/react-hotkey-tooltip)
 
-## Day 15: February 7, Friday
+## Day 15: February 7, Wednesday
 
 **Today's Progress**: Achieving 100% coverage on react-hotkey-tooltip but now Travis is breaking while running the build process 😞 if I fix that, it will be time to create a beautiful home page for it 😍
 
@@ -182,7 +182,7 @@ BTW: the library is on npm if anyone want to try it!
 2. [travis link](https://travis-ci.org/EmaSuriano/react-hotkey-tooltip)
 3. [Coveralls](https://coveralls.io/github/EmaSuriano/react-hotkey-tooltip)
 
-## Day 16: February 8, Saturday
+## Day 16: February 8, Thursday
 
 **Today's Progress**: After trying several configurations for #TravisCI, I can say that it's working like a charm! 💪 There was a problem with semantic-release and the version of the package, so I wasn't able to upload it to npm due to an error, therefore coverrals coverage report was not being updated. Fortunalately, its working!
 
@@ -194,7 +194,7 @@ BTW: the library is on npm if anyone want to try it!
 2. [travis link](https://travis-ci.org/EmaSuriano/react-hotkey-tooltip)
 3. [Coveralls](https://coveralls.io/github/EmaSuriano/react-hotkey-tooltip)
 
-## Day 17: February 9, Sunday
+## Day 17: February 9, Friday
 
 **Today's Progress**: Deploying my webpage to GitHub pages using gh-pages from npm - zero configuration 😁 I'm considering adding a CI tool to automate the deploy, but I think is kind of overkill 🔪
 
@@ -204,7 +204,7 @@ BTW: the library is on npm if anyone want to try it!
 
 1. [Porfolio](emasuriano.github.io)
 
-## Day 18: February 10, Monday
+## Day 18: February 10, Saturday
 
 **Today's Progress**: @disqus successfully implemented in my webpage! Really but really easy with the gatsby-starter 👏
 
@@ -215,7 +215,7 @@ BTW: the library is on npm if anyone want to try it!
 1. [Porfolio](emasuriano.github.io)
 2. [Disqus](https://disqus.com/)
 
-## Day 19: February 11, Thursday
+## Day 19: February 11, Sunday
 
 **Today's Progress**: returning to an old project (weather-styled-icon) that I had left it 2 months ago. After so much time, you don't know what's working or not 😕 Time to refactor the whole repo! 😱
 
@@ -225,7 +225,7 @@ BTW: the library is on npm if anyone want to try it!
 
 1. [weather-styled-icon](https://github.com/EmaSuriano/weather-styled-icon)
 
-## Day 20: February 12, Friday
+## Day 20: February 12, Monday
 
 **Today's Progress**: I started to code the home/demo page of weather-styled-icon and I realized that the icons that I made weren’t as extensible as I expected (trying to style them was a nightmare) 😣
 
@@ -235,7 +235,18 @@ BTW: the library is on npm if anyone want to try it!
 
 1. [weather-styled-icon](https://github.com/EmaSuriano/weather-styled-icon)
 
-## Day 21: February 13, Saturday
+## Day 21: February 13, Tuesday
+
+**Today's Progress**: Adding a beautiful color palette from #cooolors to the home page 🎨 Also, I implemented react-github-corner to link to the repository in a great way ✨ Next step upload it to gh-pages 💪
+
+### Overall status: Good
+
+**Link(s) to work**
+
+1. [weather-styled-icon](https://github.com/EmaSuriano/weather-styled-icon)
+2. [Palette link](https://coolors.co/e63946-f1faee-a8dadc-457b9d-1d3557)
+
+## Day 22: February 14, Wednesday
 
 **Today's Progress**: Adding a beautiful color palette from #cooolors to the home page 🎨 Also, I implemented react-github-corner to link to the repository in a great way ✨ Next step upload it to gh-pages 💪
 
