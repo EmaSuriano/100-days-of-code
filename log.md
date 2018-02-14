@@ -248,11 +248,12 @@ BTW: the library is on npm if anyone want to try it!
 
 ## Day 22: February 14, Wednesday
 
-**Today's Progress**: Adding a beautiful color palette from #cooolors to the home page 🎨 Also, I implemented react-github-corner to link to the repository in a great way ✨ Next step upload it to gh-pages 💪
+**Today's Progress**: weather-styled-icon is alive in npm 👏Also, I deployed its homepage with gh-pages 🤩
 
 ### Overall status: Good
 
 **Link(s) to work**
 
 1. [weather-styled-icon](https://github.com/EmaSuriano/weather-styled-icon)
-2. [Palette link](https://coolors.co/e63946-f1faee-a8dadc-457b9d-1d3557)
+2. [npm](https://www.npmjs.com/package/weather-styled-icon)
+3. [Home page](https://emasuriano.github.io/weather-styled-icon/)
