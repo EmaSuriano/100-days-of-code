@@ -257,3 +257,11 @@ BTW: the library is on npm if anyone want to try it!
 1. [weather-styled-icon](https://github.com/EmaSuriano/weather-styled-icon)
 2. [npm](https://www.npmjs.com/package/weather-styled-icon)
 3. [Home page](https://emasuriano.github.io/weather-styled-icon/)
+
+## Day 23: February 15, Thursday
+
+**Today's Progress**: Doing some exercise on @codility to get git for interviews 💪 Now using the language that I love ❤️ JS ❤️ #noMoreCSharp #doingWhatILike #gettingANewJob
+
+### Overall status: Good
+
+**Link(s) to work**
