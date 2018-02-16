@@ -107,7 +107,7 @@ We kind of create a hotkeys system where any component can add or remove shortcu
 2. [react-hotkeys](https://github.com/greena13/react-hotkeys)
 
 
-## Day 10: February 1, Thursday
+## Day 10: February 2, Thursday
 
 **Today's Progress**: After getting a functional hotkey system with react-hotkeys I was wondering how react-hotkets work and why I only can call hotkeys while focusing the component that has the hotkeys binded. So I check out Mousetrap and for my surprise the library binds shorcuts globally so the whole context fix is not required anymore. Therefore I rewrite the hotkeys system and it endup giving a better solution with less code (less code === easy and simple to read).
 
@@ -117,7 +117,7 @@ We kind of create a hotkeys system where any component can add or remove shortcu
 1. [react-hotkeys-example](https://github.com/EmaSuriano/react-hotkeys-example)
 2. [react-mousetrap](https://www.npmjs.com/package/react-mousetrap)
 
-## Day 11: February 2, Friday 
+## Day 11: February 4, Friday 
 
 **Today's Progress**: Another requirement was giving to us, we have to display a tooltip so the user will know which hotkey he has to press in order to call/focus/click any component of the application. Talking about the tooltip we didn't want to re invent the wheel so we use react-tippy which is a very simple and looking-good toltip! So we re-write the implementation and create a ShortcutWrapper which has very clean code and we think that it would be an excellent case for a new library! And that was what we did, we called it react-hotkey-tooltip. We've setup the repository, coverrals and travis CI using nwb create-library!
 
@@ -127,3 +127,26 @@ We kind of create a hotkeys system where any component can add or remove shortcu
 1. [react-hotkey-tooltip](https://github.com/EmaSuriano/react-hotkey-tooltip)
 2. [mousetrap](https://craig.is/killing/mice)
 3. [react-tippy](https://github.com/tvkhoa/react-tippy)
+
+## Day 12: February 5, Saturday
+
+**Today's Progress**: Published react-hotkey-tooltip to npm v1.0.0 and improve README adding badges from shields.io
+
+### Overall status: Regular
+
+**Link(s) to work**
+1. [react-hotkey-tooltip](https://github.com/EmaSuriano/react-hotkey-tooltip)
+2. [shields.io](https://shields.io/)
+3. [npm package](https://www.npmjs.com/package/react-hotkey-tooltip)
+
+
+## Day 13: February 6, Saturday
+
+**Today's Progress**: Feeling like a dev-ops installing several tools:  semantic-release, gh-pages, commitizen and tuning everthing with Travis CI. I'm having problems to release the package to npm, but it seems something on Travis conf.
+
+### Overall status: Bad
+
+**Link(s) to work**
+1. [react-hotkey-tooltip](https://github.com/EmaSuriano/react-hotkey-tooltip)
+2. [travis link](https://travis-ci.org/EmaSuriano/react-hotkey-tooltip)
+3. [semantic-release](https://github.com/semantic-release/semantic-release)
