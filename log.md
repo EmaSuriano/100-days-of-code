@@ -265,3 +265,15 @@ BTW: the library is on npm if anyone want to try it!
 ### Overall status: Good
 
 **Link(s) to work**
+
+1. [Codility](https://www.codility.com/)
+
+## Day 24: February 16, Friday
+
+**Today's Progress**: Continue practicing programming exercises, and remembering how dijkstra works 🤓 I'm pretty sure that I would never going to use it, but it's requested very often ..
+
+### Overall status: Good
+
+**Link(s) to work**
+
+1. [Codility](https://www.codility.com/)
