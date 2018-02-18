@@ -110,7 +110,7 @@ We kind of create a hotkeys system where any component can add or remove shortcu
 1. [react-hotkeys-example](https://github.com/EmaSuriano/react-hotkeys-example)
 2. [react-hotkeys](https://github.com/greena13/react-hotkeys)
 
-## Day 10: February 2, Thursday
+## Day 10: February 1, Thursday
 
 **Today's Progress**: After getting a functional hotkey system with react-hotkeys I was wondering how react-hotkets work and why I only can call hotkeys while focusing the component that has the hotkeys binded. So I check out Mousetrap and for my surprise the library binds shorcuts globally so the whole context fix is not required anymore. Therefore I rewrite the hotkeys system and it endup giving a better solution with less code (less code === easy and simple to read).
 
@@ -121,7 +121,7 @@ We kind of create a hotkeys system where any component can add or remove shortcu
 1. [react-hotkeys-example](https://github.com/EmaSuriano/react-hotkeys-example)
 2. [react-mousetrap](https://www.npmjs.com/package/react-mousetrap)
 
-## Day 11: February 4, Saturday
+## Day 11: February 3, Saturday
 
 **Today's Progress**: Another requirement was giving to us, we have to display a tooltip so the user will know which hotkey he has to press in order to call/focus/click any component of the application. Talking about the tooltip we didn't want to re invent the wheel so we use react-tippy which is a very simple and looking-good toltip! So we re-write the implementation and create a ShortcutWrapper which has very clean code and we think that it would be an excellent case for a new library! And that was what we did, we called it react-hotkey-tooltip. We've setup the repository, coverrals and travis CI using nwb create-library!
 
@@ -133,7 +133,7 @@ We kind of create a hotkeys system where any component can add or remove shortcu
 2. [mousetrap](https://craig.is/killing/mice)
 3. [react-tippy](https://github.com/tvkhoa/react-tippy)
 
-## Day 12: February 5, Sunday
+## Day 12: February 4, Sunday
 
 **Today's Progress**: Published react-hotkey-tooltip to npm v1.0.0 and improve README adding badges from shields.io
 
@@ -145,7 +145,7 @@ We kind of create a hotkeys system where any component can add or remove shortcu
 2. [shields.io](https://shields.io/)
 3. [npm package](https://www.npmjs.com/package/react-hotkey-tooltip)
 
-## Day 13: February 6, Monday
+## Day 13: February 5, Monday
 
 **Today's Progress**: Feeling like a dev-ops installing several tools: semantic-release, gh-pages, commitizen and tuning everthing with Travis CI. I'm having problems to release the package to npm, but it seems something on Travis conf.
 
@@ -157,7 +157,7 @@ We kind of create a hotkeys system where any component can add or remove shortcu
 2. [travis link](https://travis-ci.org/EmaSuriano/react-hotkey-tooltip)
 3. [semantic-release](https://github.com/semantic-release/semantic-release)
 
-## Day 14: February 7, Thursday
+## Day 14: February 6, Thursday
 
 **Today's Progress**: Installing jest in react-hotkey-tooltip and starting to improve code coverage 💪 Let’s get 💯% coverage!
 BTW: the library is on npm if anyone want to try it!
@@ -170,7 +170,7 @@ BTW: the library is on npm if anyone want to try it!
 2. [travis link](https://travis-ci.org/EmaSuriano/react-hotkey-tooltip)
 3. [npm package](https://www.npmjs.com/package/react-hotkey-tooltip)
 
-## Day 15: February 8, Wednesday
+## Day 15: February 7, Friday
 
 **Today's Progress**: Achieving 100% coverage on react-hotkey-tooltip but now Travis is breaking while running the build process 😞 if I fix that, it will be time to create a beautiful home page for it 😍
 
@@ -181,3 +181,36 @@ BTW: the library is on npm if anyone want to try it!
 1. [react-hotkey-tooltip](https://github.com/EmaSuriano/react-hotkey-tooltip)
 2. [travis link](https://travis-ci.org/EmaSuriano/react-hotkey-tooltip)
 3. [Coveralls](https://coveralls.io/github/EmaSuriano/react-hotkey-tooltip)
+
+## Day 16: February 8, Saturday
+
+**Today's Progress**: After trying several configurations for #TravisCI, I can say that it's working like a charm! 💪 There was a problem with semantic-release and the version of the package, so I wasn't able to upload it to npm due to an error, therefore coverrals coverage report was not being updated. Fortunalately, its working!
+
+### Overall status: Good
+
+**Link(s) to work**
+
+1. [react-hotkey-tooltip](https://github.com/EmaSuriano/react-hotkey-tooltip)
+2. [travis link](https://travis-ci.org/EmaSuriano/react-hotkey-tooltip)
+3. [Coveralls](https://coveralls.io/github/EmaSuriano/react-hotkey-tooltip)
+
+## Day 17: February 9, Sunday
+
+**Today's Progress**: Deploying my webpage to GitHub pages using gh-pages from npm - zero configuration 😁 I'm considering adding a CI tool to automate the deploy, but I think is kind of overkill 🔪
+
+### Overall status: Good
+
+**Link(s) to work**
+
+1. [Porfolio](emasuriano.github.io)
+
+## Day 18: February 10, Monday
+
+**Today's Progress**: @disqus successfully implemented in my webpage! Really but really easy with the gatsby-starter 👏
+
+### Overall status: Good
+
+**Link(s) to work**
+
+1. [Porfolio](emasuriano.github.io)
+2. [Disqus](https://disqus.com/)
