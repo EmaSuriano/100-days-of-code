@@ -8,9 +8,9 @@ Another very important point is, this library was originated by the CSS grid cou
 #### Overall status: Good
 
 **Link(s) to work**
+
 1. [React Responsive Gallery](https://github.com/EmaSuriano/responsive-react-gallery)
 2. [Css-grid course](https://cssgrid.io/)
-
 
 ### Day 2: January 25, Thursday
 
@@ -19,25 +19,25 @@ Another very important point is, this library was originated by the CSS grid cou
 #### Overall status: Regular
 
 **Link(s) to work**
-1. [React Responsive Gallery](https://github.com/EmaSuriano/responsive-react-gallery)
 
+1. [React Responsive Gallery](https://github.com/EmaSuriano/responsive-react-gallery)
 
 ### Day 3: January 26, Friday
 
 **Today's Progress**: I started working on my portfolio (which has been abandoned for a while with a WIP message 😅). This time I decided to use Gatsby because I want to create a blog inside my portfolio, so I can start writing blogs there and in the future move them to medium. Also, if I made this log a bit richer in the information I can create one entry every day for the blog. So I use template for gatsby which has a beatiful UI and also the amount of pages that I want. So what do I add to the portofolio?
-- Add at least one entry to the blog
-- Change About page
-- Change Contact page
-- Use my free url and see how it goes.
+
+* Add at least one entry to the blog
+* Change About page
+* Change Contact page
+* Use my free url and see how it goes.
 
 #### Overall status: Good
 
 **Link(s) to work**
+
 1. [My Portfolio](https://github.com/EmaSuriano/emasuriano.github.io)
 2. [Gatsby Starters](https://www.gatsbyjs.org/docs/gatsby-starters/)
 3. [Lumen starter](https://github.com/alxshelepenok/gatsby-starter-lumen)
-
-
 
 ### Day 4: January 27, Saturday
 
@@ -46,16 +46,18 @@ Another very important point is, this library was originated by the CSS grid cou
 #### Overall status: Medium
 
 **Link(s) to work**
+
 1. [My Portfolio](https://github.com/EmaSuriano/portfolio-gatsby)
 2. [My DNS](http://emanuelsuriano.design/)
 
 ## Day 5: January 28, Sunday
 
-**Today's Progress**: I learned how to implement plugins inside gatsby, this time I wanted to use this one gatsby-remark-images. This plugin transform the img in mardown to beatiful lazy load images that have a blur effect while they are loading, so it's really cool because the content wont be start to gittering while are loading. 
+**Today's Progress**: I learned how to implement plugins inside gatsby, this time I wanted to use this one gatsby-remark-images. This plugin transform the img in mardown to beatiful lazy load images that have a blur effect while they are loading, so it's really cool because the content wont be start to gittering while are loading.
 
 ### Overall status: Medium
 
 **Link(s) to work**
+
 1. [My Portfolio](https://github.com/EmaSuriano/portfolio-gatsby)
 2. [My DNS](http://emanuelsuriano.design/)
 3. [Netlify link](http://emasuriano.netlify.com/)
@@ -63,14 +65,14 @@ Another very important point is, this library was originated by the CSS grid cou
 
 ## Day 6: January 29, Monday
 
-**Today's Progress**: I wrote my first serious article on my page, telling how I get my portfolio in one night. It took me a lot of work and time but I am really happy with the final product. I have a lot of grammatical mistakes but fortunately, my girlfriend helped me to solve them 😘 
+**Today's Progress**: I wrote my first serious article on my page, telling how I get my portfolio in one night. It took me a lot of work and time but I am really happy with the final product. I have a lot of grammatical mistakes but fortunately, my girlfriend helped me to solve them 😘
 
 ### Overall status: Good
 
 **Link(s) to work**
+
 1. [My Portfolio](https://github.com/EmaSuriano/portfolio-gatsby)
 2. [Link to the Post](http://emasuriano.netlify.com/posts/how-i-made-my-page-in-1-night/)
-
 
 ## Day 7: January 29, Monday
 
@@ -79,10 +81,10 @@ Another very important point is, this library was originated by the CSS grid cou
 ### Overall status: Medium
 
 **Link(s) to work**
+
 1. [My Portfolio](https://github.com/EmaSuriano/portfolio-gatsby)
 2. [Link to the Post](http://emasuriano.netlify.com/posts/how-i-made-my-page-in-1-night/)
 3. [Twitter docs](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary-card-with-large-image)
-
 
 ## Day 8: January 30, Tuesday
 
@@ -91,6 +93,7 @@ Another very important point is, this library was originated by the CSS grid cou
 ### Overall status: Bad
 
 **Link(s) to work**
+
 1. [react-hotkeys-example](https://github.com/EmaSuriano/react-hotkeys-example)
 2. [react-hotkeys](https://github.com/greena13/react-hotkeys)
 3. [react-keydown](https://www.npmjs.com/package/react-keydown)
@@ -98,14 +101,14 @@ Another very important point is, this library was originated by the CSS grid cou
 ## Day 9: January 31, Wednesday
 
 **Today's Progress**: I continue working on the hotkeys system for a react application. We were using react-hotkeys to catch the keys and call function after pressing the combination that we want. THe problem was that if we defined a hotkeuys componentn that wraps a small componennt in our app the shortcuts will only work if we are focusing that component (wont be globally usable). So we end up with a solution of wrapping the whole application with ONE HotKeys componentn so wherever we are focusing the shortcuts will work and then if a small component want to add a new shortcut to the application, it will get the context and call a functions subscribeHandler. Also when it will unmount, it has to call the unsubscribeHandler too.
-We kind of create a hotkeys system where any component can add or remove shortcuts via context, and in my opinion it's really slick! 
+We kind of create a hotkeys system where any component can add or remove shortcuts via context, and in my opinion it's really slick!
 
 ### Overall status: Good
 
 **Link(s) to work**
+
 1. [react-hotkeys-example](https://github.com/EmaSuriano/react-hotkeys-example)
 2. [react-hotkeys](https://github.com/greena13/react-hotkeys)
-
 
 ## Day 10: February 2, Thursday
 
@@ -114,16 +117,18 @@ We kind of create a hotkeys system where any component can add or remove shortcu
 ### Overall status: Good
 
 **Link(s) to work**
+
 1. [react-hotkeys-example](https://github.com/EmaSuriano/react-hotkeys-example)
 2. [react-mousetrap](https://www.npmjs.com/package/react-mousetrap)
 
-## Day 11: February 4, Saturday 
+## Day 11: February 4, Saturday
 
 **Today's Progress**: Another requirement was giving to us, we have to display a tooltip so the user will know which hotkey he has to press in order to call/focus/click any component of the application. Talking about the tooltip we didn't want to re invent the wheel so we use react-tippy which is a very simple and looking-good toltip! So we re-write the implementation and create a ShortcutWrapper which has very clean code and we think that it would be an excellent case for a new library! And that was what we did, we called it react-hotkey-tooltip. We've setup the repository, coverrals and travis CI using nwb create-library!
 
 ### Overall status: Good
 
 **Link(s) to work**
+
 1. [react-hotkey-tooltip](https://github.com/EmaSuriano/react-hotkey-tooltip)
 2. [mousetrap](https://craig.is/killing/mice)
 3. [react-tippy](https://github.com/tvkhoa/react-tippy)
@@ -135,18 +140,32 @@ We kind of create a hotkeys system where any component can add or remove shortcu
 ### Overall status: Regular
 
 **Link(s) to work**
+
 1. [react-hotkey-tooltip](https://github.com/EmaSuriano/react-hotkey-tooltip)
 2. [shields.io](https://shields.io/)
 3. [npm package](https://www.npmjs.com/package/react-hotkey-tooltip)
 
-
 ## Day 13: February 6, Monday
 
-**Today's Progress**: Feeling like a dev-ops installing several tools:  semantic-release, gh-pages, commitizen and tuning everthing with Travis CI. I'm having problems to release the package to npm, but it seems something on Travis conf.
+**Today's Progress**: Feeling like a dev-ops installing several tools: semantic-release, gh-pages, commitizen and tuning everthing with Travis CI. I'm having problems to release the package to npm, but it seems something on Travis conf.
 
 ### Overall status: Bad
 
 **Link(s) to work**
+
 1. [react-hotkey-tooltip](https://github.com/EmaSuriano/react-hotkey-tooltip)
 2. [travis link](https://travis-ci.org/EmaSuriano/react-hotkey-tooltip)
 3. [semantic-release](https://github.com/semantic-release/semantic-release)
+
+## Day 14: February 7, Thursday
+
+**Today's Progress**: Installing jest in react-hotkey-tooltip and starting to improve code coverage 💪 Let’s get 💯% coverage!
+BTW: the library is on npm if anyone want to try it!
+
+### Overall status: Regular
+
+**Link(s) to work**
+
+1. [react-hotkey-tooltip](https://github.com/EmaSuriano/react-hotkey-tooltip)
+2. [travis link](https://travis-ci.org/EmaSuriano/react-hotkey-tooltip)
+3. [npm package](https://www.npmjs.com/package/react-hotkey-tooltip)
