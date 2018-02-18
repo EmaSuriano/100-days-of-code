@@ -169,3 +169,15 @@ BTW: the library is on npm if anyone want to try it!
 1. [react-hotkey-tooltip](https://github.com/EmaSuriano/react-hotkey-tooltip)
 2. [travis link](https://travis-ci.org/EmaSuriano/react-hotkey-tooltip)
 3. [npm package](https://www.npmjs.com/package/react-hotkey-tooltip)
+
+## Day 15: February 8, Wednesday
+
+**Today's Progress**: Achieving 100% coverage on react-hotkey-tooltip but now Travis is breaking while running the build process 😞 if I fix that, it will be time to create a beautiful home page for it 😍
+
+### Overall status: Regular
+
+**Link(s) to work**
+
+1. [react-hotkey-tooltip](https://github.com/EmaSuriano/react-hotkey-tooltip)
+2. [travis link](https://travis-ci.org/EmaSuriano/react-hotkey-tooltip)
+3. [Coveralls](https://coveralls.io/github/EmaSuriano/react-hotkey-tooltip)
